@@ -434,7 +434,7 @@ class CreateSkill extends React.Component {
             <Col xs="6">
               <Card className="card-chart">
                 <CardHeader>
-                  <CardTitle>PUSHING WORKS!</CardTitle>
+                  <CardTitle>PUSHING JUST WORKED LAST!</CardTitle>
                 </CardHeader>
                 <CardBody>
                   <CreatableSelect
